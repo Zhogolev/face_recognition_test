@@ -1,0 +1,3 @@
+/Users/konstantin/projects/face_recognition/demo/CMakeFiles/demo.dir
+/Users/konstantin/projects/face_recognition/demo/CMakeFiles/edit_cache.dir
+/Users/konstantin/projects/face_recognition/demo/CMakeFiles/rebuild_cache.dir
