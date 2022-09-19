@@ -1,3 +1,0 @@
-/Users/konstantin/projects/face_recognition/image_catching/CMakeFiles/image_catching.dir
-/Users/konstantin/projects/face_recognition/image_catching/CMakeFiles/edit_cache.dir
-/Users/konstantin/projects/face_recognition/image_catching/CMakeFiles/rebuild_cache.dir
